@@ -35,6 +35,56 @@ let o = 0;
 }
 ```
 ---
-
+#### 6. Experience:
+* [Qubit](https://vadimmorvanyuk.github.io/v.morvanyuk/Qubit/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+* [Product](https://vadimmorvanyuk.github.io/v.morvanyuk/Product/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+* [Richard](https://vadimmorvanyuk.github.io/v.morvanyuk/Richard/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+* [Vade](https://vadimmorvanyuk.github.io/v.morvanyuk/Vade/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+* [Createx](https://vadimmorvanyuk.github.io/v.morvanyuk/Createx/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+* [Bagdum](https://vadimmorvanyuk.github.io/v.morvanyuk/Bagdum/index.html)
+    * HTML
+    * CSS
+    * SCSS
+    * Bootstrap
+    * Javascript
+    * jQuery
+---
+#### 7. Education:
+* Main Academy(Front-end Developer)
+    + HTML,CSS,SCSS,Bootstrap,Javascript,jQuery,git.
+---
+#### 8. Languages:
+* Ukraine - Native
+* English - Pre-intermediate(A2)
 
 

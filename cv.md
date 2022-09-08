@@ -1,15 +1,15 @@
-#### 1. Name: Vadym Morvaniuk
----
-#### 2. Contacts:
+## 1. Name: Vadym Morvaniuk
+
+## 2. Contacts:
 * Telegram: https://t.me/Morvaniuk
 * Mail: vadim.morvanyuk@gmail.com
 * Discord: Epsilon#9266
----
-#### 3. About me:
+
+## 3. About me:
 I am twenty. I love programming in javascript. I have a desire to learn and develop. I am honest, responsible, polite. I am currently looking for a job
 
----
-#### 4. Skills:
+
+## 4. Skills:
 * HTML
 * CSS
 * SCSS
@@ -18,8 +18,8 @@ I am twenty. I love programming in javascript. I have a desire to learn and deve
 * jQuery
 * Git
 * React.js(basic)
----
-#### 5. Code example:
+
+## 5. Code example:
 ```
 function XO(str) {
 let x = 0;
@@ -34,8 +34,8 @@ let o = 0;
    return x == o;
 }
 ```
----
-#### 6. Experience:
+
+## 6. Experience:
 * [Qubit](https://vadimmorvanyuk.github.io/v.morvanyuk/Qubit/index.html)
     * HTML
     * CSS
@@ -78,12 +78,12 @@ let o = 0;
     * Bootstrap
     * Javascript
     * jQuery
----
-#### 7. Education:
+
+## 7. Education:
 * Main Academy(Front-end Developer)
     + HTML,CSS,SCSS,Bootstrap,Javascript,jQuery,git.
----
-#### 8. Languages:
+
+## 8. Languages:
 * Ukraine - Native
 * English - Pre-intermediate(A2)
 
